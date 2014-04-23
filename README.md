@@ -1,4 +1,4 @@
-== SOMA
+##SOMA
 (Part 1 of Final Project)
 
 Soma is an API for inputting and analyzing blood test results. 
